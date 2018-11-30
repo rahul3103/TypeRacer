@@ -92,7 +92,10 @@ class App extends Component {
       clearInterval(this.timer);
     } else {
       this.timer = setInterval(() => {
-        this.setState({ runningTime: --runningTime });
+        if (runningTime === 0) {
+          clearInterval(this.timer);
+          this.setState({ typingFinished: true });
+        } else this.setState({ runningTime: --runningTime });
       }, 1000);
     }
     this.setState({ timerOn: !timerOn });
