@@ -149,6 +149,7 @@ class App extends Component {
               position={position}
             />
             <div>
+              {typingFinished && <p>You finished the race</p>}
               <p>
                 {minutes}:{seconds} minutes
               </p>
