@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/TypeRacer/static/js/runtime~main.8dc525e0.js"
   },
   {
-    "revision": "57d898b811b4736be86e",
-    "url": "/TypeRacer/static/js/main.57d898b8.chunk.js"
+    "revision": "e9132325e6114f61ddc9",
+    "url": "/TypeRacer/static/js/main.e9132325.chunk.js"
   },
   {
     "revision": "c637fd379abcd541ffd0",
     "url": "/TypeRacer/static/js/1.c637fd37.chunk.js"
   },
   {
-    "revision": "57d898b811b4736be86e",
+    "revision": "e9132325e6114f61ddc9",
     "url": "/TypeRacer/static/css/main.12f203da.chunk.css"
   },
   {
-    "revision": "7babccf64290787ea8e7572d4652d5a7",
+    "revision": "5045a5f63ab69d441a0a9791be4b2729",
     "url": "/TypeRacer/index.html"
   }
 ];

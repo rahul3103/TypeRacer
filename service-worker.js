@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TypeRacer/precache-manifest.1d730b63921c905e517cfa94142f50a6.js"
+  "/TypeRacer/precache-manifest.cb464b2c58a1824dc4f03a40ced82341.js"
 );
 
 workbox.clientsClaim();
